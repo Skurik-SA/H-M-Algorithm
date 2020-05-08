@@ -1,0 +1,4 @@
+﻿  RLE.cpp
+C:\Users\MSI\source\repos\RLETRYTWO\RLETRYTWO\RLE.cpp(32,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\MSI\source\repos\RLETRYTWO\RLETRYTWO\RLE.cpp(69,22): warning C4018: <: несоответствие типов со знаком и без знака
+  RLETRYTWO.vcxproj -> C:\Users\MSI\source\repos\RLETRYTWO\Debug\RLETRYTWO.exe
